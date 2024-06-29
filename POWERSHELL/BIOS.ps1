@@ -1,0 +1,1 @@
+﻿Get-WmiObject -class win32_BIOS -ComputerName NEERAJ
